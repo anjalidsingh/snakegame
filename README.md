@@ -1,3 +1,6 @@
+# Try here
+https://replit.com/@anjalidsingh401/Snakegame
+
 # Snake Self
 
 This is an implementation of the classic Snake game using Pygame, with an AI-controlled snake that uses the A* pathfinding algorithm to navigate to the food.
